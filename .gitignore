@@ -4,7 +4,4 @@ __pycache__/
 .pytest_cache/ 
 venv/ 
 ai_doorbell.zip 
-known_faces/ 
-model/ 
-test/ 
 .git/ 
